@@ -30,7 +30,7 @@ We use these to make sure everyone is following the rules.
 
 [ALL INFO IS STORED ON YOUR PLAYFAB/GORLLA CHASERS ACCOUNT PLEASE NOTE THAT ALL DEVS WON'T USE THIS AGAINST YOU!]
 [This info is also used to help you log into the correct playfab account and helps us moderate what you do in game.]
-We need this info to be able to ban people that are causing havoc, drama, or just being a bad person. If you ever feel like unsafe with us having personal info then you may contact us on email or discord and we will try to get to your as fast as we can. if you ever see someone bullying, harrassing, or assualting someone else report it to me or one of the mods ASAP. I and the other devs want to be able  to prevent bullying as much as possible for your own safety while playing Monkeys Home. We use your Hardware ID to prevent you from connecting to a different WIFI do evade an IP ban.
+We need this info to be able to ban people that are causing havoc, drama, or just being a bad person. If you ever feel like unsafe with us having personal info then you may contact us on email or discord and we will try to get to your as fast as we can. if you ever see someone bullying, harrassing, or assualting someone else report it to me or one of the mods ASAP. I and the other devs want to be able to prevent bullying as much as possible for your own safety while playing Monkeys Home. We use your Hardware ID to prevent you from connecting to a different WIFI do evade an IP ban.
 
 4. Where and how to contact us
 
